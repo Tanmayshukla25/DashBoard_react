@@ -493,7 +493,7 @@ const Jobcard = () => {
                     </div>
                   </td>
                   <td className="p-3">
-                    <Link to="/JobCardNext">
+                    <Link to="/app/JobCardNext">
                       <button className="p-[5px] mt-1 border rounded hover:bg-gray-100 cursor-pointer">
                         <FiArrowRight />
                       </button>

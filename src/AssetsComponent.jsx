@@ -29,7 +29,7 @@ const AssetsComponent = () => {
                     <td className="px-4 py-3">TSC</td>
                     <td className="px-4 py-3">15 May 2025</td>
                     <td className="px-4 py-3">
-                      <Link to="/AssetDetails1">
+                      <Link to="/app/AssetDetails1">
                       <button className="flex items-center gap-1 text-gray-900 border border-gray-400 px-3 py-1 rounded hover:bg-gray-100">
                         <LuEye /> View Asset
                       </button>
@@ -44,7 +44,7 @@ const AssetsComponent = () => {
                     <td className="px-4 py-3">sterling</td>
                     <td className="px-4 py-3"></td>
                     <td className="px-4 py-3">
-                     <Link to="/AssetsCPUComponent">
+                     <Link to="/app/AssetsCPUComponent">
                       <button className="flex items-center gap-1 text-gray-900 border border-gray-400 px-3 py-1 rounded hover:bg-gray-100">
                         <LuEye /> View Asset
                       </button>

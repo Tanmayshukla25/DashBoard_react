@@ -24,7 +24,7 @@ const JobClientAdd = () => {
         <header className="flex items-center justify-between mb-6">
           <div className="flex items-center gap-4">
             <button className="p-2 rounded-full hover:bg-gray-200">
-                 <Link to="/clients"><HiOutlineArrowLeft className="text-xl text-gray-500 cursor-pointer border-[2px] h-[25px] w-[25px] rounded-full" /></Link>
+                 <Link to="/app/clients"><HiOutlineArrowLeft className="text-xl text-gray-500 cursor-pointer border-[2px] h-[25px] w-[25px] rounded-full" /></Link>
             </button>
             <h1 className="text-2xl font-bold text-slate-800">Job client add</h1>
           </div>

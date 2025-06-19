@@ -13,7 +13,7 @@ const previews = [1, 2, 3, 4];
    
       <div className="flex items-center gap-4 mb-6 ">
         <button className="text-gray-600 hover:text-gray-800 h-[30px] w-[30px]  rounded-full flex justify-center items-center">
-              <Link to="/Assets"><HiOutlineArrowLeft className="text-xl text-gray-500 cursor-pointer border-[2px] h-[25px] w-[25px] rounded-full" /></Link>
+              <Link to="/app/Assets"><HiOutlineArrowLeft className="text-xl text-gray-500 cursor-pointer border-[2px] h-[25px] w-[25px] rounded-full" /></Link>
         </button>
         <h1 className="text-2xl font-bold">CPU</h1>
       </div>

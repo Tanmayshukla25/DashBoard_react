@@ -25,7 +25,7 @@ const JobCardNext = () => {
       <div className="bg-white ">
         <div className="flex justify-between items-center px-6 py-4">
           <div className="flex items-start gap-3">
-             <Link to="/jobcard"><HiOutlineArrowLeft className="text-xl text-gray-500 cursor-pointer border-[2px] h-[25px] w-[25px] rounded-full" /></Link>
+             <Link to="/app/jobcard"><HiOutlineArrowLeft className="text-xl text-gray-500 cursor-pointer border-[2px] h-[25px] w-[25px] rounded-full" /></Link>
             <div>
               <h1 className="text-xl font-bold">Job Card #30000</h1>
               <div className="text-xs text-gray-600 mt-1">

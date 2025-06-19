@@ -13,7 +13,7 @@ const SiteOverview = () => {
      
       <div className="flex items-center gap-3">
         <div className="flex items-center gap-2 text-xl font-semibold cursor-pointer">
-       <Link to="/clients"><HiOutlineArrowLeft className="text-xl text-gray-500 cursor-pointer border-[2px] h-[25px] w-[25px] rounded-full" /></Link>
+       <Link to="/app/clients"><HiOutlineArrowLeft className="text-xl text-gray-500 cursor-pointer border-[2px] h-[25px] w-[25px] rounded-full" /></Link>
           <span>Ster</span>
         </div>
         <select

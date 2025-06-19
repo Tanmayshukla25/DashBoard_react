@@ -1,11 +1,15 @@
-import React from "react";
+import React, { useState } from "react";
 import { Outlet } from "react-router-dom";
 import Header from "./Header";
 import LeftSideBar from "./LeftSideBar";
+import UserContext from "./Context";
 
 const First = () => {
+    const [selectedTicket, setSelectedTicket] = useState(null);
   return (
     <>
+
+    <UserContext.Provider value={{selectedTicket, setSelectedTicket }}   >
       <div className="h-screen ">
         <Header />
 
@@ -18,6 +22,7 @@ const First = () => {
           </div>
         </div>
       </div>
+  </UserContext.Provider>
     </>
   );
 };

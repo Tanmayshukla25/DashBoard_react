@@ -576,7 +576,7 @@ function Support() {
                 )}
 
                 <br />
-                <Link to="/SupportTicket">
+                <Link to="/app/SupportTicket">
                   <button className="p-[5px] mt-1 border rounded hover:bg-gray-100 cursor-pointer">
                     <FiArrowRight />
                   </button>
@@ -609,7 +609,7 @@ function Support() {
                   <LuPencil />
                 </button>{" "}
                 <br />
-                <Link to="/SupportTicketNext">
+                <Link to="/app/SupportTicketNext">
                   <button className="p-[5px] mt-1 border rounded hover:bg-gray-100 cursor-pointer">
                     <FiArrowRight />
                   </button>
@@ -642,7 +642,7 @@ function Support() {
                   <LuPencil />
                 </button>{" "}
                 <br />
-                <Link to="/SupportTicket">
+                <Link to="/app/SupportTicket">
                   <button className="p-[5px] mt-1 border rounded hover:bg-gray-100 cursor-pointer">
                     <FiArrowRight />
                   </button>
@@ -659,7 +659,7 @@ function Support() {
               <td className="px-4 py-2 p-[20px]">268 Days</td>
               <td className="px-4 py-2 flex gap-2 mt-[5px]"></td>
               <td className="px-4 py-2">
-                <Link to="">
+                <Link to="#">
                   <span className="bg-orange-500 text-white px-2 py-1 rounded-[4px] text-lg]">
                     On site Technician
                   </span>
@@ -673,7 +673,7 @@ function Support() {
                   <LuPencil />
                 </button>{" "}
                 <br />
-                <Link to="/SupportTicketNext">
+                <Link to="/app/SupportTicketNext">
                   <button className="p-[5px] mt-1 border rounded hover:bg-gray-100 cursor-pointer">
                     <FiArrowRight />
                   </button>
@@ -704,7 +704,7 @@ function Support() {
                 </span>
               </td>
               <td className="">
-                <Link to="">
+                <Link to="#">
                   <span className="bg-yellow-300 text-white px-2 ml-3 py-1 rounded-[4px] text-lg]">
                    Working
                   </span>
@@ -718,7 +718,7 @@ function Support() {
                   <LuPencil />
                 </button>
                 <br />
-                <Link to="/SupportTicket">
+                <Link to="/app/SupportTicket">
                   <button className="p-[5px] mt-1 border rounded hover:bg-gray-100 cursor-pointer">
                     <FiArrowRight />
                   </button>
@@ -753,7 +753,7 @@ function Support() {
                   <LuPencil />
                 </button>
                 <br />
-                <Link to="/SupportTicketNext">
+                <Link to="/app/SupportTicketNext">
                   <button className="p-[5px] mt-1 border rounded hover:bg-gray-100 cursor-pointer">
                     <FiArrowRight />
                   </button>

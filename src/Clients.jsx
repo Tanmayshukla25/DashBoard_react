@@ -133,13 +133,13 @@ function Clients() {
                 <td className="px-6 py-3">
                   <div className="flex gap-2">
                     <Link
-                      to="/Google"
+                      to="/app/Google"
                       className="p-[5px]  border rounded border-gray-500 hover:bg-gray-100 cursor-pointer"
                     >
                       <LuEye />
                     </Link>
                     <Link
-                      to="/Google"
+                      to="/app/Google"
                       className="p-[5px] border rounded border-gray-500 hover:bg-gray-100 cursor-pointer"
                     >
                       <GoPencil />
@@ -154,13 +154,13 @@ function Clients() {
                 <td className="px-6 py-3">
                   <div className="flex gap-2">
                     <Link
-                      to="/JobClientAdd"
+                      to="/app/JobClientAdd"
                       className="p-[5px] border rounded border-gray-500 hover:bg-gray-100 cursor-pointer"
                     >
                       <LuEye />
                     </Link>
                     <Link
-                      to="/JobClientAdd"
+                      to="/app/JobClientAdd"
                       className="p-[5px] border rounded border-gray-500 hover:bg-gray-100 cursor-pointer"
                     >
                       <GoPencil />
@@ -175,13 +175,13 @@ function Clients() {
                 <td className="px-6 py-3">
                   <div className="flex gap-2">
                     <Link
-                      to="/SiteOverview"
+                      to="/app/SiteOverview"
                       className="p-[5px] border rounded border-gray-500 hover:bg-gray-100 cursor-pointer"
                     >
                       <LuEye />
                     </Link>
                     <Link
-                      to="/SiteOverview"
+                      to="/app/SiteOverview"
                       className="p-[5px] border rounded border-gray-500 hover:bg-gray-100 cursor-pointer"
                     >
                       <GoPencil />
@@ -196,13 +196,13 @@ function Clients() {
                 <td className="px-6 py-3">
                   <div className="flex gap-2">
                     <Link
-                      to="/StrelingInfotech"
+                      to="/app/StrelingInfotech"
                       className="p-[5px] border rounded border-gray-500 hover:bg-gray-100 cursor-pointer"
                     >
                       <LuEye />
                     </Link>
                     <Link
-                      to="/StrelingInfotech"
+                      to="/app/StrelingInfotech"
                       className="p-[5px] border rounded border-gray-500 hover:bg-gray-100 cursor-pointer"
                     >
                       <GoPencil />
@@ -217,13 +217,13 @@ function Clients() {
                 <td className="px-6 py-3">
                   <div className="flex gap-2">
                     <Link
-                      to="/Clientstest"
+                      to="/app/Clientstest"
                       className="p-[5px] border border-gray-500 rounded hover:bg-gray-100 cursor-pointer"
                     >
                       <LuEye />
                     </Link>
                     <Link
-                      to="/Clientstest"
+                      to="/app/Clientstest"
                       className="p-[5px] border rounded border-gray-500 hover:bg-gray-100 cursor-pointer"
                     >
                       <GoPencil />

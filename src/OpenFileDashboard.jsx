@@ -20,7 +20,7 @@ const DashboardOpen = () => {
     <div className="   w-[98%] mx-auto mt-[10%] ">
       <div className="flex justify-between items-center  pb-4 mb-6">
         <div className="flex items-center gap-2">
-          <Link to="/support">
+          <Link to="/app/support">
             <HiOutlineArrowLeft className="text-xl text-gray-500 cursor-pointer border-[2px] h-[25px] w-[25px] rounded-full" />
           </Link>
 

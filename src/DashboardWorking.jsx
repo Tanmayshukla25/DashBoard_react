@@ -22,7 +22,7 @@ function DashboardonsitePageSecond() {
         <div>
           <div className="flex items-center gap-3">
             <div>
-              <Link to="/">
+              <Link to="/app">
                 <HiOutlineArrowLeft className="text-xl text-gray-500 cursor-pointer border-[2px] h-[25px] w-[25px] rounded-full" />
               </Link>
             </div>
