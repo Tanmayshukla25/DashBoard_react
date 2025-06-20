@@ -15,8 +15,8 @@ const Dashboard = () => {
   return (
     <>
       {!selectedTicket && (
-        <div>
-          <div className="mt-25 w-[96%]">
+        <div className="ml-10">
+          <div className="mt-25 w-[96%] ">
             <h1 className="text-2xl mt-[4%] font-bold mb-6">Dashboard</h1>
             <div>
               <div className="p-6 bg-white  border border-gray-300 rounded-xl shadow-md">
